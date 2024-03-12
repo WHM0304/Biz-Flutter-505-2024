@@ -8,6 +8,7 @@
 - SQLite : `flutter pub add sqflite`
 - 날짜 시간 : `flutter pub add intl` (international location)
 - 저장경로관리 : `flutter pub add path`
+- uuid : `flutter pub add uuid`
 
 ## Flutter(Dart) 의 변수
 
